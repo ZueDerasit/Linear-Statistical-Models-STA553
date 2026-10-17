@@ -38,4 +38,4 @@ By the end of this topic, students should be able to:
 
 1. Calculate correlation coefficients using Microsoft Excel.
 2. Perform Pearson, Spearman, and Kendall correlation analyses using R.
-3. Interpret and compare the results obtained from different correlation methods.nterpret correlation coefficients using Excel and perform correlation analysis using R.
+3. Interpret and compare the results obtained from different correlation methods. Interpret correlation coefficients using Excel and perform correlation analysis using R.
