@@ -18,7 +18,7 @@ It covers the following methods:
 - Spearman rank correlation coefficient
 - Kendall's tau correlation coefficient
 
-The file helps students understand how to obtain correlation coefficients using Excel before performing the analyses in R.R Scripts
+The file helps students understand how to obtain correlation coefficients using Excel before performing the analyses in R.
 
 -----------------
 2. R Scripts
